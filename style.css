@@ -1,0 +1,27 @@
+@font-face{
+    font-family: "Asap-Regular";
+    src: url("assets/Asap-Regular.otf");
+    font-family: "LucidaSans-Italic";
+    src: url("assets/LucidaSans-Italic.ttf");
+    font-family: "MyriadPro-Regular";
+    src: url("assets/MyriadPro-Regular.ttf");
+    font-family: "OpenSans";
+    src: url("assets/OpenSans.ttf");
+    font-family: "PTSans-NarrowBold";
+    src: url("assets/PTSans-NarrowBold.ttf");
+    font-family: "PTSans-Regular";
+    src: url("assets/PTSans-Regular.ttf");
+    font-family: "SegoeUI";
+    src: url("assets/SegoeUI.ttf");
+    font-family: "SegoeUI-Bold";
+    src: url("assets/SegoeUI-Bold.ttf");
+    font-family: "SegoeWP";
+    src: url("assets/SegoeWP.ttf");
+    font-family: "SegoeWP-light";
+    src: url("assets/SegoeWP-light.ttf");
+}
+
+body {
+    width: 100%;
+    margin: 0 auto;
+}
