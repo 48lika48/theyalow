@@ -350,5 +350,70 @@ h4 {
     padding-left: 210px;
 }
 
-/*SECTION2*/
+/*SECTION3*/
+
+.connection {
+    background-color: #4c4c4c;
+    height: 499px;
+}
+
+h3 {
+    font-family: "PTSans-Regular", "MyriadPro-Regular";
+    font-size: 40px;
+    color: rgba(245, 197, 6, 255);
+    padding: 38px 0 0 330px;
+}
+
+.connect {
+    display: flex;
+    position: relative;
+}
+
+.connect button {
+    width: 116px; 
+    height: 116px;
+    background: #f5c506;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 50%;
+    margin-top: 10px;
+    position: absolute;
+    left: 140px;
+}
+
+.notebook {
+    width: 323px; 
+    height: 255px;
+    margin: 50px 0 0 160px;
+}
+
+.tablet {
+    width: 129px; 
+    height: 173px;
+    margin: 90px 0 0 24px;
+}
+
+.phone {
+    width: 39px; 
+    height: 63px;
+    margin: 200px 0 0 25px;
+}
+
+ul {
+    margin: 95px 50px 0 105px;
+}
+
+li {
+    font-family: "PTSans-Regular", "OpenSans", "MyriadPro-Regular";
+    font-size: 28px;
+    color: #f5c506;
+    margin-bottom: 10px;
+}
+
+span {
+    color: rgba(169, 169, 167, 255);
+}
+
+/*FOOTER*/
 
