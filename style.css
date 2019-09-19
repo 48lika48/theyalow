@@ -31,6 +31,8 @@ body {
 	padding: 0;
 }
 
+/*HEADER*/
+
 header {
     background-image: url(assets/background_header.png);
     background-repeat: no-repeat;
@@ -114,6 +116,7 @@ h1 {
 .slider {
     display: flex;
     position: relative;
+    height: 400px;
 }
 
 .switcherleft {
@@ -154,3 +157,79 @@ h2 {
     border: none;
     margin-top: 135px;
 }
+
+/*MAIN*/
+
+/*SECTION1*/
+
+.information {
+    display: flex;
+    height: 212px;
+}
+
+.design {
+    width: 20%; 
+    padding: 61px 0 77px 70px;
+}
+
+.customise {
+    width: 20%; 
+    padding: 37px 0 80px 70px;
+}
+
+.free {
+    width: 20%; 
+    padding: 54px 0 75px 70px;
+}
+
+.design img {
+    width: 109px; 
+    height: 74px;
+    padding-left: 40px;
+}
+
+.customise img {
+    width: 91px; 
+    height: 95px;
+    padding-left: 60px;
+}
+
+.free img {
+    width: 81px; 
+    height: 83px;
+    padding-left: 45px;
+}
+
+.information hr {
+    margin-left: 0px;
+    width: 0.01%; 
+    height: 212px;
+    color: #b99403;
+    margin-left: 30px;
+}
+
+.information:first-child {
+    margin-left: 110px;
+}
+
+.information p {
+    font-family: "SegoeUI-Light", "MyriadPro-Regular";
+    font-size: 26px;
+    color: rgba(0, 0, 0, 255);
+    margin-top: 10px;
+}
+
+.design p {
+    margin: 10px 0 0 10px;
+}
+
+.customise p {
+    margin: 13px 0 0 32px;
+}
+
+.free p {
+    margin: 10px 0 0 35px;
+}
+
+/*SECTION2*/
+
