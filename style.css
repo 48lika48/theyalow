@@ -208,7 +208,6 @@ h2 {
 }
 
 .information hr {
-    margin-left: 0px;
     width: 0.01%; 
     height: 212px;
     color: #b99403;
@@ -417,3 +416,30 @@ span {
 
 /*FOOTER*/
 
+footer {
+    background-color: #4c4c4c;
+    height: 64px;
+}
+
+footer hr {
+    height: 1px;
+    color: black;
+}
+
+.logomini {
+    display: flex;
+}
+
+.logomini img {
+    width: 51px;
+    height: 51px;
+    padding-top: 5px;
+    padding-left: 141px;
+}
+
+h5 {
+    font-family: "LucidaSans-Italic", "MyriadPro-Regular";
+    font-size: 30px;
+    color: white;
+    padding: 10px 0 0 10px;
+}
