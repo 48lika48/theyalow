@@ -443,3 +443,19 @@ h5 {
     color: white;
     padding: 10px 0 0 10px;
 }
+
+a:hover {
+    color: darkblue;
+}
+
+h1:hover, h2:hover, h5:hover {
+	transform: rotateZ(-5deg);
+}
+
+button:hover {
+	transform: scale(1.5);
+}
+
+.plus1:hover, .plus2:hover {
+	
+}
