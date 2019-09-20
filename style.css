@@ -457,5 +457,5 @@ button:hover {
 }
 
 .plus1:hover, .plus2:hover {
-	
+    content: url('assets/plus_hover.png');
 }
